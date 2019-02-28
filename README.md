@@ -1,6 +1,6 @@
 # vue-demo
 
-> A Vue.js project
+> 技术框架：vue+typescript+elementUI
 
 ## Build Setup
 
